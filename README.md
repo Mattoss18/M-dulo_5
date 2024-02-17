@@ -1,7 +1,7 @@
 # M-dulo_5
 Python - Programação Funcional
 
-Tópicos
+Tópicos:
 Função lambda;
 Função map;
 Função filter;
