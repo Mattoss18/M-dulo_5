@@ -1,2 +1,8 @@
 # M-dulo_5
-Python - Estruturas de Dados: Listas, Conjuntos e Dicionários
+Python - Programação Funcional
+
+Tópicos
+Função lambda;
+Função map;
+Função filter;
+Função reduce
