@@ -1,4 +1,4 @@
-# M-dulo_5
+# Programação Funcional
 Python - Programação Funcional
 
 Tópicos:
